@@ -15,7 +15,8 @@
 - Bước 1: Tải tool (ấn vào chữ code màu xanh phía trên và ấn download)
 - Bước 2: Giải nén, mở thư mục vừa giải nén và cài đặt module `npm install telegram`
 - Bước 3: Bỏ file .session vào thư mục session
-- Bước 4: Sử dụng `node getdata.js` để chạy tool
+- Bước 4: Thay apiId và apiHash trong file `getdata.js`
+- Bước 5: Sử dụng `node getdata.js` để chạy tool
 ---
 **📦 Phiên bản**
 >Phiên bản mới nhất: **v1.0**
