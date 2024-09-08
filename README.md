@@ -8,7 +8,7 @@
 - Đó là tất cả những gì mình biết, có thể còn những lý do khác để ban acc
 ---
 **🛠️ Hướng dẫn cài đặt**
->Tạo file .session và lấy apiId, apiHash
+>Tạo file .session và lấy apiId, apiHash (nguồn: Dân Cày Airdrop)
 - Bước 1: Tải file [taoss2.zip](https://t.me/dancayairdrop/1207)
 - Bước 2: Làm theo [hướng dẫn](https://t.me/dancayairdrop/1173)
 >Yêu cầu đã cài đặt NodeJS
