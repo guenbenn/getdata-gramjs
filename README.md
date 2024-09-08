@@ -1,5 +1,5 @@
 # Tool Auto Get Data (Iframe/Query/Token)
-**Tool được chia sẻ miễn phí bởi [@guen_benn](https://t.me/guen_benn)**
+**Tool được chia sẻ bởi [@guen_benn](https://t.me/guen_benn)**
 
 **🚨 Đọc kỹ trước khi sử dụng**
 - Không nên sử dụng tài khoản Telegram mới vì khi tạo file .session thì rất dễ bị ban
