@@ -8,10 +8,10 @@
 - Đó là tất cả những gì mình biết, có thể còn những lý do khác để ban acc
 ---
 **🛠️ Hướng dẫn cài đặt**
->1. Tạo file .session và lấy apiId, apiHash
+>Tạo file .session và lấy apiId, apiHash
 - Bước 1: Tải file [taoss2.zip](https://t.me/dancayairdrop/1207)
 - Bước 2: Làm theo [hướng dẫn](https://t.me/dancayairdrop/1173)
->2. Yêu cầu đã cài đặt NodeJS
+>Yêu cầu đã cài đặt NodeJS
 - Bước 1: Tải tool (ấn vào chữ code màu xanh phía trên và ấn download)
 - Bước 2: Giải nén, mở thư mục vừa giải nén và cài đặt module `npm install telegram`
 - Bước 3: Bỏ file .session vào thư mục session
