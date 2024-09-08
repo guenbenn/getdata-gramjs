@@ -1,12 +1,25 @@
-*LƯU Ý TRƯỚC KHI SỬ DỤNG:
-- Ae acc mới thì không nên dùng, ae sử dụng acc tele mua thì ưu tiên hàng +84 trên 7 ngày (mình mua 10 acc +1 và die hết:)) k biết do acc mới hay do hàng ngoại), mua acc có session sẵn thì không sử dụng được tool (có thể là tạo session bằng python) nên ae cần tạo session của ad group Dân Cày Airdrop.
-- Đó là tất cả những gì mình biết, có thể còn những lý do khác để ban acc.
-- Ae nào tạo session như trên mà bị ban thì do ae đen thôi, mình tạo 30 session (1 thiết bị, 1 ip) mà chưa acc nào bị ban.
+# Tool Auto Get Data (Iframe/Query/Token)
+**Tool được chia sẻ miễn phí bởi [@guen_benn](https://t.me/guen_benn)**
 
-1. Cài đặt module: npm install telegram
-2. Thay apiId và apiHash trong getdata.js (https://my.telegram.org/)
-3. Tạo session bằng taoss2.js để sử dụng tool (https://t.me/dancayairdrop/1207)
-4. Lấy session vừa tạo bỏ vào thư mục session
-5. Chạy tool bằng lệnh "node getdata.js"
-
-Hướng dẫn lấy apiId, apiHash và tạo session chi tiết: https://t.me/dancayairdrop/1173
+**🚨 Đọc kỹ trước khi sử dụng**
+- Không nên sử dụng tài khoản Telegram mới vì khi tạo file .session thì rất dễ bị ban
+- File .session có sẵn khi mua tài khoản Telegram không sử dụng được tool, nếu mua thì cần phải tạo file .session mới (ưu +84 và trên 1 tháng)
+- Nếu bị ban thì do ae đen thôi, mình tạo 30 file .sesson (1 thiết bị, 1 ip) mà chưa tài khoản nào bị ban
+- Đó là tất cả những gì mình biết, có thể còn những lý do khác để ban acc
+---
+**🛠️ Hướng dẫn cài đặt**
+>1. Tạo file .session
+- Bước 1: Tải file [taoss2.zip](https://t.me/dancayairdrop/1207)
+- Bước 2: Làm theo [hướng dẫn](https://t.me/dancayairdrop/1173)
+>2. Yêu cầu đã cài đặt NodeJS
+- Bước 1: Tải tool (ấn vào chữ code màu xanh phía trên và ấn download)
+- Bước 2: Giải nén, mở thư mục vừa giải nén và cài đặt module `npm install telegram`
+- Bước 3: Bỏ file .session vào thư mục session
+- Bước 4: Sử dụng `node getdata.js` để chạy tool
+---
+**📦 Phiên bản**
+>Phiên bản mới nhất: **v1.0**
+<details>
+<summary>v1.0 - 08/09/2024</summary>
+  - Chia sẻ tool
+</details>
