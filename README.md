@@ -3,7 +3,7 @@
 
 **🚨 Đọc kỹ trước khi sử dụng**
 - Không nên sử dụng tài khoản Telegram mới vì khi tạo file .session thì rất dễ bị ban
-- File .session có sẵn khi mua tài khoản Telegram không sử dụng được tool, nếu mua thì cần phải tạo file .session mới (ưu +84 và trên 1 tháng)
+- File .session có sẵn khi mua tài khoản Telegram không sử dụng được tool, nếu mua thì cần phải tạo file .session mới (ưu tiên +84 và trên 1 tháng)
 - Nếu bị ban thì do ae đen thôi, mình tạo 30 file .sesson (1 thiết bị, 1 ip) mà chưa tài khoản nào bị ban
 - Đó là tất cả những gì mình biết, có thể còn những lý do khác để ban acc
 ---
