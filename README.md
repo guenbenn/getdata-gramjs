@@ -1,5 +1,4 @@
 # Tool Auto Get Data (Iframe/Query/Token)
-Tool tự động lấy dữ liệu các kèo Airdrop trên Telegram sử dụng Gramjs sessions
 **Tool được chia sẻ bởi [@guen_benn](https://t.me/guen_benn)**
 
 **🚨 Đọc kỹ trước khi sử dụng**
