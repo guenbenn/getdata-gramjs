@@ -12,7 +12,7 @@
 - Bước 1: Tải file [taoss2.zip](https://t.me/dancayairdrop/1207)
 - Bước 2: Làm theo [hướng dẫn](https://t.me/dancayairdrop/1173)
 >Yêu cầu đã cài đặt NodeJS 20.18.0
-- Bước 1: Tải file [getdata-main.zip](https://github.com/guenbenn/getdata/archive/refs/heads/main.zip)
+- Bước 1: Tải file [getdata-gramjs-main.zip](https://github.com/guenbenn/getdata-gramjs/archive/refs/heads/main.zip)
 - Bước 2: Giải nén, mở thư mục vừa giải nén và cài đặt module `npm install telegram`
 - Bước 3: Bỏ file .session vào thư mục session
 - Bước 4: Thay apiId và apiHash trong file `getdata.js`
